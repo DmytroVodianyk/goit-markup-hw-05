@@ -755,6 +755,9 @@ img {
   display: flex;
   align-items: center;
 }
+.modal-field-m {
+  margin-bottom: 8px;
+}
 
 .modal-check-text span {
   width: 16px;
@@ -768,6 +771,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  display: inline-flex;
 }
 
 .modal-check-span {
