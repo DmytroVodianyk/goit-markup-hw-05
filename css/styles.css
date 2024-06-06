@@ -771,10 +771,10 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  display: inline-flex;
 }
 
 .modal-check-span {
+  display: inline-flex;
 }
 
 .modal-check:checked + .modal-check-text > .modal-check-span {
