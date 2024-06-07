@@ -773,7 +773,8 @@ img {
   fill: transparent;
 }
 
-.modal-check-span {
+.modal-span {
+  display: inline-flex;
 }
 
 .modal-check:checked + .modal-check-text > .modal-check-span {
